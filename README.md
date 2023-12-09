@@ -1,6 +1,4 @@
-- Hi, I’m @transitmatt
-- I know some code (a little bit of Swift, some html)
-- I want to learn Python and Javascript
+- Hi, I’m @mattmoment
 - You can reach me at transitmatt@pm.me
 
 <!---
