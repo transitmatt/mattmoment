@@ -1,5 +1,6 @@
-- Hi, I’m @mattmoment
-- You can reach me at transitmatt@pm.me
+- Hi, I’m @transitmatt
+- You can reach me at transitmatt@proton.me
+- that's it it's very lackluster 
 
 <!---
 transitmatt/transitmatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
